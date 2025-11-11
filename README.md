@@ -1,16 +1,14 @@
 # spacez
+This Flutter project implements a **pixel-perfect Coupons Page UI** based on the provided Figma design for the Spacez app.  
 
-A new Flutter project.
+- **Pixel-perfect UI** matching the Figma design  
+- **Interactive Buttons**:
+  - "Apply" → Shows success snackbar  
+  - "Reserve" → Shows reservation success message  
+- **Responsive Layout** using `SingleChildScrollView`  
+- **Reusable Components** for Coupons and Bottom Bar  
+- **Themed Typography** with Google Fonts (`Poppins`)  
+- Clean, modular Flutter code structure
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Image of the APP UI
+![WhatsApp Image 2025-11-11 at 22 57 43_7cadeb6d](https://github.com/user-attachments/assets/6d5c4899-ca3a-45c0-b866-c2111b3191ab)
